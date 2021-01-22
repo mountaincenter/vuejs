@@ -1,0 +1,1 @@
+source /Users/yamanaka/Desktop/vuejs/aliases.sh
